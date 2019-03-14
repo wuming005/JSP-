@@ -11,8 +11,8 @@
 
 
 
-![0](D:\blog\JSP-\img\0.png)
+![0](https://github.com/wuming005/JSP-/blob/master/img/0.png)
 
-![1](D:\blog\JSP-\img\1.png)
+![1](https://github.com/wuming005/JSP-/blob/master/img/1.png)
 
-![2](D:\blog\JSP-\img\2.png)
+![2](https://github.com/wuming005/JSP-/blob/master/img/2.png)
